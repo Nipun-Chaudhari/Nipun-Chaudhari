@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nipun-Chaudhari
-- 👀 I’m interested in Software Development and Cyber Security
+- 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on any project in JAVA
+- 💞️ I’m looking to collaborate on any project of Data Science and AI
 - 📫 You can contact me on gmail at nipunchaudharinsc@gmail.com
 
 <!---
